@@ -1,0 +1,21 @@
+version: '3.8'
+services:
+  postgres:
+    image: postgres
+    container_name: pg-da-test
+    environment:
+      POSTGRES_PASSWORD: senha123
+      POSTGRES_DB: da_test
+    ports:
+      - "5432:5432"
+
+  pgadmin:
+    image: dpage/pgadmin4
+    container_name: pgadmin-da-test
+    environment:
+      PGADMIN_DEFAULT_EMAIL: admin@admin.com
+      PGADMIN_DEFAULT_PASSWORD: admin123
+    ports:
+      - "8080:80"
+    depends_on:
+      - postgres
