@@ -6,7 +6,6 @@ spanning January to November 2025.
 
 ---
 
-## Repository Structure
 
 
 ## Repository Structure
@@ -22,7 +21,7 @@ spanning January to November 2025.
     requirements.txt
     README.md
 
-    ## Questions Addressed
+## Questions Addressed
 
 | File | Questions |
 |------|-----------|
