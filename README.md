@@ -1,4 +1,4 @@
-# RTB House — Data Analyst Technical Challenge
+# RTB House - Data Analyst Technical Challenge
 
 Analysis of one year of campaign performance data (January–November 2025) for one
 of RTB House's clients, covering metric calculations, performance trends, and SQL
