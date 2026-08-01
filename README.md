@@ -1,7 +1,7 @@
-# RTB House | Senior Data Analyst Case Study
+# RTB House | Campaign Performance Analysis
 
-Analysis of one year of campaign performance data (January–November 2025), combining business analysis, 
-performance metrics,SQL querying, and executive storytelling.
+Analysis of one year of campaign performance data (January–November 2025),
+combining business analysis, performance metrics,SQL querying, and executive storytelling.
 
 ---
 
