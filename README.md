@@ -153,7 +153,7 @@ the numbers and communicate insights that support decision-making.
 
 # 📝 Notes
 
-- Dataset covers January–November 2025.
+- Dataset covers January - November 2025.
 - December is not included in the original dataset.
 - All monetary values are expressed in BRL.
 - SQL queries were developed and validated using the provided PostgreSQL schema.
