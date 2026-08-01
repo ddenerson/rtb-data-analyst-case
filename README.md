@@ -8,8 +8,9 @@ performance metrics,SQL querying, and executive storytelling.
 # 📌 Project Context
 
 This project was developed as part of the technical assessment for a **Senior Data Analyst** position at **RTB House**.
-The objective was to analyze one year of campaign performance, answer business questions using SQL, identify the main business drivers behind the results, 
-and communicate findings through an executive presentation.
+The objective was to analyze one year of campaign performance, answer business questions using SQL, identify the main 
+business drivers behind the results,and communicate findings through an executive presentation.
+
 The complete solution was delivered as reproducible Python notebooks, SQL queries, and a presentation summarizing the business insights.
 
 ---
@@ -17,7 +18,8 @@ The complete solution was delivered as reproducible Python notebooks, SQL querie
 # 📈 Project Outcome
 
 This case study was successfully presented during the interview process and resulted in a formal job offer for the **Senior Data Analyst** position.
-Although I ultimately chose another opportunity that was already in its final hiring stage and better aligned with my long-term professional goals, 
+
+Although I ultimately chose another opportunity that was already in its final hiring stage and better aligned with my long-term professional goals,
 I decided to share this project as part of my portfolio because it represents my approach to solving real business problems through data.
 
 ---
